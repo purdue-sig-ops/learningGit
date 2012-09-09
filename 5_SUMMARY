@@ -1,3 +1,5 @@
+5. Summary
+
 You now know how to set up your local copy of the repository, add and edit the local copy,
 bundle up your changes, and send your local bundle of changes up to be included in the
 authoritative version of the code.  That's the basics of git, and will compose the majority

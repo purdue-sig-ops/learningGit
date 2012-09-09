@@ -1,3 +1,5 @@
+4. Push
+
 Now that you have a bundle of local changes, you'll want to add them to the authoritative
 version of the code.  That's where the push command comes in.  Before you run it, though,
 let's think back to the potential merge problem we described in the 2_PULL section.  In that

@@ -1,3 +1,5 @@
+2. Pull
+
 Once you have your local copy set up using the clone command, you'll want to periodically ask
 the authoritative version for any new changes - maybe someone else fixed an annoying bug
 after you got your local copy set up.  The way you download those changes is through the pull
