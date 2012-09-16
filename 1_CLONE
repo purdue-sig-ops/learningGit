@@ -4,7 +4,7 @@ As previously mentioned, you should already have some exposure to the clone comm
 (hopefully) used it to get this file in the first place.
 
 If you haven't yet, open up a terminal and run the following command:
-  git clone https://github.com/cole14/learningGit.git
+  git clone https://github.com/purdue-sig-ops/learningGit.git
 
 The git clone command reaches out to the authoritative server and asks for the latest copy
 in order to INITIALIZE the local copy.  This command should only be used to get the initial
